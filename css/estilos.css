@@ -1,0 +1,30 @@
+body{
+    background-color: #7B68EE;
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+}
+  .menu li {
+    list-style: none;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: #DA70D6;
+    text-align: center;
+  }
+  .site-subtitle {
+    color:tomato;
+    text-align:center;
+    font-style:italic;
+  }
